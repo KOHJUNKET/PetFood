@@ -1,0 +1,11 @@
+C1 Applaws-Tin-tuna-fillet-156g Cat 10.00 20
+C2 Applaws-Tin-mackerel-with-sardine-156g  Cat 10.00 20
+C3 Applaws-pouch-tuna-in-jelly-70g Cat 10.00 20
+C4 RoyalCaninfeline-health-nutrition-Indoor-10kg Cat 353.00 20
+C5 BURP-tuna-whole-meat-with-salmon-in-jelly-85g Cat 5.10 20
+C6 BURP-tuna-whole-meat-with-ocean-fish-in-jelly-85g Cat 5.10 20
+C7 Meowingheads-pawlickin-chicken-with-ocean-fish-and-egg-4kg Cat 155.70 20
+C8 Dailydelight-skipjack-tuna-white-and-chicken-with-babyclam-80g Cat 5.00 20
+C9 Dailydelight-skip-jack-tuna-white-and-chicken-with-salmon-80g Cat 5.00 20
+C10 Dailydeligh-tskip-jack-tuna-white-and-chicken-with-squid-80g Cat 5.00 20
+
